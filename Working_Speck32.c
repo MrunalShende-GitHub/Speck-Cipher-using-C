@@ -1,5 +1,5 @@
 
-//speck32 working for round 1 & 2, dont change anything here. 
+//speck32 working for round 1 & 2
     #include <stdio.h>
     #include <stdint.h>
 
